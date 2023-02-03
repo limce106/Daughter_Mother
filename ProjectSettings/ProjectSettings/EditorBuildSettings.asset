@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OutsideGame/Start.unity
+    guid: 553e0bc9f0e5f2040bf94107236a82f0
+  - enabled: 1
+    path: Assets/Scenes/OutsideGame/SetName.unity
+    guid: fcf4af6ca931314478ea9043e87c70e9
+  - enabled: 1
+    path: Assets/Scenes/OutsideGame/ExplainGame.unity
+    guid: 6508cf7febfa2ee4482ab0c6e7ea3a52
+  - enabled: 1
+    path: Assets/Scenes/BedRoom.unity
+    guid: 99d02000cea6621469f0b538753d8527
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 25b8f2a014af1a349bfb2f212441f85b
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 9fc9d0d42af94674ab37b8653c273039
+  - enabled: 1
+    path: Assets/Scenes/Road.unity
+    guid: 864258c1cc071544fa6da27062cbc923
+  - enabled: 1
+    path: Assets/Scenes/OutsideGame/GameOver.unity
+    guid: 43ae199fc4285154cad37e4a053d7033
+  - enabled: 1
+    path: Assets/Scenes/Battle/Enemy1.unity
+    guid: 42adacb6f80b5904383b867a0108ac44
+  - enabled: 1
+    path: Assets/Scenes/Battle/Enemy2.unity
+    guid: 1f9aa516bc8cc5b4db6a8e8b62d22dbf
+  - enabled: 1
+    path: Assets/Scenes/Battle/Enemy3.unity
+    guid: 9782c70570ad24048b1c44c74bd9ae4f
+  m_configObjects: {}
